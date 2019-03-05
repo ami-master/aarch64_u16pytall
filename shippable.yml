@@ -18,7 +18,7 @@ build:
     - python -V
     - docker ps
     - docker images
-    - docker pull shippabledocker/sample_node_pvt:ecr
+   # - docker pull shippabledocker/sample_node_pvt:ecr
     
 integrations:
     
